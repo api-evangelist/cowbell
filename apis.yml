@@ -1,0 +1,114 @@
+aid: cowbell
+name: Cowbell
+description: >-
+  Cowbell is a Pleasanton, California-based adaptive cyber insurance provider
+  serving small and medium-sized businesses (SMBs) and the middle market with
+  standalone cyber liability coverage, technology errors & omissions (Tech
+  E&O), management liability, and excess cyber products. Founded in 2019,
+  Cowbell pioneered continuous underwriting through its proprietary Cowbell
+  Factors risk benchmarking, which scores organizations against millions of
+  data points to surface vulnerabilities and prioritize remediation. The
+  company pairs its policies with a closed-loop resiliency program
+  (assess-insure-respond-improve) that includes complimentary risk
+  assessments, Cowbell Insights threat detection, incident response planning,
+  cybersecurity awareness training, micro-penetration testing, and vendor
+  risk assessments, plus subscription-based managed detection and response
+  (MDR), penetration testing, identity monitoring (IdentityAI), and
+  Compliance-as-a-Service (COMPaaS). Cowbell operates across the United
+  States (all 50 states plus DC), the United Kingdom, and Australia, is
+  backed by reinsurance partners including Zurich, and offers a public
+  developer program at developers.cowbellcyber.ai exposing REST APIs for
+  agencies, accounts, risk factors, quoting, binding, policy management, and
+  webhooks across its Prime 100, Prime 250, and PrimeOne products. The API
+  surface powers digital aggregator integrations with partners such as Bold
+  Penguin, Herald, Semsee, Sayata, Limit, iBynd, and AmWins. No public
+  OpenAPI specification or open-source SDK is published by Cowbell.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Cyber Insurance
+  - Insurance
+  - InsurTech
+  - Cybersecurity
+  - Risk Management
+  - Risk Assessment
+  - Continuous Underwriting
+  - SMB
+  - Cowbell Factors
+  - Cyber Liability
+  - Managed Detection and Response
+  - Penetration Testing
+  - Compliance
+  - Quoting
+  - Binding
+  - Brokers
+  - Agencies
+url: https://raw.githubusercontent.com/api-evangelist/cowbell/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://cowbell.insure
+  - type: About
+    url: https://cowbell.insure/about-cowbell/
+  - type: Team
+    url: https://cowbell.insure/team/
+  - type: BoardOfDirectors
+    url: https://cowbell.insure/bod/
+  - type: Careers
+    url: https://cowbell.insure/careers/
+  - type: Blog
+    url: https://cowbell.insure/blog/
+  - type: Newsroom
+    url: https://cowbell.insure/news/
+  - type: DataReports
+    url: https://cowbell.insure/data-reports/
+  - type: ContactUs
+    url: https://cowbell.insure/contact-us/
+  - type: FAQ
+    url: https://cowbell.insure/faqs/
+  - type: Developer
+    url: https://developers.cowbellcyber.ai
+  - type: APIQuickstart
+    url: https://developers.cowbellcyber.ai/reference/cyber-api-quickstart
+  - type: APIQuoting
+    url: https://cowbell.insure/api-quoting/
+  - type: APILicense
+    url: https://cowbell.insure/api-license/
+  - type: Console
+    url: https://console.cowbellcyber.ai/login
+  - type: ClaimsServices
+    url: https://cowbell.insure/claims-services/
+  - type: FindAnAgent
+    url: https://cowbell.insure/find-an-agent/
+  - type: BrokerResources
+    url: https://cowbell.insure/broker-resources/
+  - type: Academy
+    url: https://cowbell.insure/cowbell-academy/
+  - type: RxMarketplace
+    url: https://cowbell.insure/rx-new/
+  - type: StateLicenses
+    url: https://cowbell.insure/state-licenses/
+  - type: Privacy
+    url: https://cowbell.insure/privacy/
+  - type: TermsOfService
+    url: https://cowbell.insure/terms/
+  - type: GitHub
+    url: https://github.com/cowbell-cyber
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cowbell-cyber
+  - type: Twitter
+    url: https://twitter.com/cowbellcyber
+  - type: YouTube
+    url: https://www.youtube.com/@cowbellcyber
+  - type: Facebook
+    url: https://www.facebook.com/cowbellcyber
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/cowbell-cyber-inc
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
