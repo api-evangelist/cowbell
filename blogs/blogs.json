@@ -3,13 +3,19 @@
   "feeds": [
     {
       "source": "https://cowbell.insure/blog/feed/",
-      "error": "URLError"
+      "feed_url": "https://cowbell.insure/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://cowbell.insure/careers/",
-      "error": "URLError"
+      "feed_url": "https://cowbell.insure/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z",
+  "post_count": 2
 }

@@ -77,7 +77,7 @@ common:
     url: https://developers.cowbellcyber.ai/reference/cyber-api-quickstart
   - type: APIQuoting
     url: https://cowbell.insure/api-quoting/
-  - type: APILicense
+  - type: InterfaceLicense
     url: https://cowbell.insure/api-license/
   - type: Console
     url: https://console.cowbellcyber.ai/login
