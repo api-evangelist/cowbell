@@ -1,0 +1,33 @@
+# Front Door AI Index — cowbell — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: cowbell
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: cowbell.insure
+  final_host: cowbell.insure
+  ownership: own
+  owner: cowbell
+  shares_host_with:
+  - cowbell-cyber
+  inherited_from: null
+  verdict: scored
+  score: 18
+  host_score: 18
+  density: 10.81
+  words: 1665
+  tiers:
+    agentic: 5
+    core: 13
+    model: 0
+  ambiguous: 12
+  top_terms:
+    AI: 12
+    agent: 10
+    AI agent: 2
+    intelligence: 2
+    LLMs: 1
+    agentic: 1
+    chatbot: 1
+    prompts: 1
